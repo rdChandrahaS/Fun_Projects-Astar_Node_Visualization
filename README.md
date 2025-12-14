@@ -2,8 +2,7 @@
 
 A high-performance, real-time visualization of the **A* (A-Star) Pathfinding Algorithm** built in Java. This project demonstrates how the algorithm navigates complex, randomly generated mazes to find the shortest path between two points.
 
-![Project Screenshot](screenshot_placeholder.png)
-*(Note: Upload a screenshot named `screenshot.png` to the repository to see it here)*
+![Project Screenshot](screenshot.png)
 
 ## ✨ Features
 * **Recursive Backtracker Maze Generation:** Generates a unique, complex maze structure every time.
